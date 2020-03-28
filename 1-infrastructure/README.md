@@ -1,14 +1,14 @@
 # Deploy and configure infrastructure (40-45%)
 
 ## Analyze resource utilization and consumption
-
+ 
 [Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
 
-- [x] __configure diagnostic settings on resources__
+- [ ] __configure diagnostic settings on resources__
 
   - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
-- [x] __create baseline for resources__
+- [ ] __create baseline for resources__
 
   - [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
